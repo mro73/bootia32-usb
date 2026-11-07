@@ -1,0 +1,11 @@
+bootia32.efi
+============
+Prebuilt IA32 (32-bit) UEFI boot loader for Intel Bay Trail devices, from the
+"bootia32-efi" project (https://github.com/lamadotcare/bootia32-efi), which is
+released under the Unlicense (public domain).
+Upstream sources/credits are listed in that project's README.
+
+SHA-256: 9d3c9683550bbece50432057c0aaa9974a4a705324e8499737613b188c5d1ac0
+
+To use a different build, pick it in the app (the bootia32.efi field) or pass
+--efi on the command line.

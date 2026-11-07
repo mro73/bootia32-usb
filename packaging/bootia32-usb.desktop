@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=bootia32 USB creator
+Comment=Make a Linux USB stick that boots on 32-bit UEFI tablets
+Exec=bootia32-usb
+Icon=bootia32-usb
+Categories=System;Utility;
+Terminal=false
